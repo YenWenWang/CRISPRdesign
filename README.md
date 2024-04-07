@@ -13,5 +13,4 @@ This uses pFC902 and pFC330~pFC334 to generate
 
 
 # Reference
-Nødvig, et al. 2018. Efficient Oligo nucleotide mediated CRISPR-Cas9 Gene Editi$
-
+Nødvig, et al. 2018. Efficient oligo nucleotide mediated CRISPR-Cas9 gene editing in Aspergilli.  Fungal Genet. Biol. 115:78-89.
