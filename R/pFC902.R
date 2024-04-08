@@ -180,7 +180,7 @@ pFC902insert<-function(contig,siteofinterest,insert,direction,HMR1primers,HMR2pr
                      paste("PCR pFC902 with primers",paste(output$recommended[[2]],collapse = " ")),
                      paste("PCR pFC902 with primers",paste(output$recommended[[3]],collapse = " ")),
                      "digest pFC330~333 with Nt. BbvCI.",
-                     "ligate everything together")
+                     "ligate everything together with USER")
   return(output)
 
 }
